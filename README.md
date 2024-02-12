@@ -9,5 +9,3 @@
 🌱 I'm constantly learning and evolving in this dynamic e-commerce landscape, staying up-to-date with the latest Magento releases, best practices, and industry trends.
 
 💬 Let's connect! Feel free to reach out for collaboration opportunities, Magento-related discussions, or just to geek out about e-commerce tech!
-
-📫 You can reach me via email at [Your Email] or connect with me on
